@@ -4,6 +4,10 @@ const pkg = require('./package')
 module.exports = {
   mode: 'universal',
 
+  router: {
+    base: '/ssrdemo/'
+  },
+
   /*
   ** Headers of the page
   */
