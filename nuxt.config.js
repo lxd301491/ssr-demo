@@ -5,7 +5,7 @@ module.exports = {
   mode: 'universal',
 
   router: {
-    base: '/ssrdemo/'
+    base: '/business/'
   },
 
   /*
